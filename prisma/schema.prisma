@@ -12,6 +12,7 @@ model contacts {
   contact_id     Int       @default(autoincrement())
   first_name     String
   last_name      String?
+  image_url      String?
   location       String?
   contact_type   String?
   frequency      Int?

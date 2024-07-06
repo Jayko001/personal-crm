@@ -12,6 +12,7 @@
     "@headlessui/react": "^2.1.2",
     "@heroicons/react": "^2.1.4",
     "@prisma/client": "^5.16.1",
+    "date-fns": "^3.6.0",
     "headlessui": "^0.0.0",
     "heroicons": "^2.1.4",
     "next": "14.2.4",

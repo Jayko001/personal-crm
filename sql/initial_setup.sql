@@ -3,6 +3,7 @@ CREATE TABLE contacts (
     contact_id SERIAL,
     first_name text NOT NULL,
     last_name text,
+    image_url text,
     location text,
     contact_type text,
     frequency int,
